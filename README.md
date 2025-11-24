@@ -5,7 +5,7 @@ Selamat datang di **Mafia Ikan**, sebuah proyek bertema laut, ikan, dan intrik d
 ---
 
 ## 🌅 Halaman Utama Aplikasi
-![Alt Text](img/ss.jpeg)
+![Alt Text](img/ss.jeg)
 
 
 ---
