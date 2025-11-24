@@ -1,3 +1,4 @@
+
 # 🐟 Mafia Ikan
 
 Selamat datang di **Mafia Ikan**, sebuah proyek bertema laut, ikan, dan intrik di bawah ombak.
@@ -5,7 +6,7 @@ Selamat datang di **Mafia Ikan**, sebuah proyek bertema laut, ikan, dan intrik d
 ---
 
 ## 🌅 Halaman Utama Aplikasi
-![Alt Text](img/ss.jeg)
+![Alt Text](./img/ss.jeg)
 
 
 ---
@@ -25,6 +26,7 @@ Selamat datang di **Mafia Ikan**, sebuah proyek bertema laut, ikan, dan intrik d
 
 ## 📁 Struktur Direktori
 
+```bash
 Mafia-Ikan/
 ├── img/ # Gambar tema laut / halaman utama
 ├── Koneksi.php
@@ -35,7 +37,7 @@ Mafia-Ikan/
 ├── edit_pesanan.php
 ├── simpan_pesanan.php
 └── testing.php
-
+```
 bash
 Copy code
 
