@@ -49,7 +49,6 @@ Copy code
 Buka folder proyek:
 
 bash
-Copy code
 cd Mafia-Ikan
 Siapkan database MySQL dan sesuaikan Koneksi.php
 
